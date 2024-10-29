@@ -16,5 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudabdos&show_icons=true&locale=en&layout=compact" alt="mahmoudabdos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudabdos&show_icons=true&locale=en" alt="mahmoudabdos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabdos&" alt="mahmoudabdos" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudabdos&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
