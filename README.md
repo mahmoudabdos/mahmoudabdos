@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudabdos&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudabdos" /> </p>
 
+-🌱 I’m currently learning Web Development and other programming languages
 - 👨‍💻 All of my projects are available at [https://mahmoudabdo.vercel.app/](https://mahmoudabdo.vercel.app/)
-
 - 📫 How to reach me **mahmoudabdoh2211@gmail.com**
 
 <p align="left">
